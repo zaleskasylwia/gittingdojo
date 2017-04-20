@@ -1,8 +1,7 @@
 def implement():
-    hello =print("Hello Sir '\n', I'm Gittie")
+    hello = print("Hello Sir '\n', I'm Gittie")
     ab = "Lolo"
-    print("Hello",hello, ab)
-
+    print("Hello", hello, ab)
 
 
 def joke():
@@ -14,4 +13,8 @@ def add(a, b):
     b = int(input("Second number"))
     c = a+b
     return c
+
+
+def shout():
+    print("Screeeam")
 
