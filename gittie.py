@@ -1,6 +1,6 @@
 def implement():
-    print("Hello, I'm Gittie")
-
+    hello =print("Hello Sir '\n', I'm Gittie")
+    return(hello)
 <<<<<<< HEAD
 
 def joke():
